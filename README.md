@@ -1,2 +1,3 @@
 # Demo
-this is my first first git reposistory
+This is my first first git reposistory.
+Author - Deepak singh
